@@ -1,0 +1,4 @@
+﻿  main.cpp
+g:\cdaima\day01\3.随机数\main.cpp(8): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  3.随机数.vcxproj -> G:\cdaima\day01\Debug\3.随机数.exe
+  3.随机数.vcxproj -> G:\cdaima\day01\Debug\3.随机数.pdb (Full PDB)

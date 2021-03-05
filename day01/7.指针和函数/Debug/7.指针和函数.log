@@ -1,0 +1,9 @@
+﻿  main.cpp
+g:\cdaima\day01\7.指针和函数\main.cpp(66): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+g:\cdaima\day01\7.指针和函数\main.cpp(67): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+g:\cdaima\day01\7.指针和函数\main.cpp(94): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+  7.指针和函数.vcxproj -> G:\cdaima\day01\Debug\7.指针和函数.exe
+  7.指针和函数.vcxproj -> G:\cdaima\day01\Debug\7.指针和函数.pdb (Full PDB)
